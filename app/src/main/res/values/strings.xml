@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BLE Relay</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_bluetooth_not_supported">Device is not support BLE Bluetooth</string>
+    <string name="unknown_device">Unkown Device</string>
+    <string name="loading">Loading</string>
+    <string name="auto_scan">Auto Scan</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connected">Connected</string>
+    <string name="mac_address">Mac Address: %s</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="control_device">Control Device</string>
+    <string name="unknown_service">unknown service</string>
+    <string name="unknown_characteristic">unknown characteristic</string>
+</resources>
